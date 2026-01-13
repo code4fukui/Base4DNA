@@ -76,7 +76,7 @@ console.log(back);
 ### Encode / Decode UTF-8 strings
 
 ```js
-const dna = Base4DNA.encodeString("Hello DNA 🧬", { group: 8 });
+const dna = Base4DNA.encodeString("Hello DNA 🧬", 8);
 console.log(dna);
 
 const text = Base4DNA.decodeString(dna);
@@ -86,7 +86,7 @@ console.log(text);
 ## ✂️ Grouping (Human-Friendly)
 
 ```js
-Base4DNA.encode(bytes, { group: 4 });
+Base4DNA.encode(bytes, 4);
 // TAGG-TTTG
 ```
 
