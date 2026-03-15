@@ -1,5 +1,7 @@
 # 🧬 Base4DNA
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 > **All life is Base-4 encoded.**  
 > This library just admits it.
 
