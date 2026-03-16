@@ -1,9 +1,8 @@
-# 🧬 Base4DNA
+# Base4DNA
 
 > 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
-> **All life is Base-4 encoded.**  
-> This library just admits it.
+> **All life is Base-4 encoded.** This library just admits it.
 
 **Base4DNA** is a tiny, playful, and fully deterministic encoding that represents binary data using only four characters: `A`, `C`, `G`, and `T`. Each character encodes **2 bits**, inspired by DNA nucleotides. It's a correct, reversible, and well-tested implementation.
 
